@@ -154,7 +154,7 @@ tetrateIstio:
 
 # Thanos Values
 thanos:
-  enable: false
+  enable: true
 
 # Traefik Values
 traefik:
